@@ -6,4 +6,4 @@ Script to install ShareLateX on Ubuntu 16.04 LTS
 
 Grant a user for sharelatex.
 
-#docker exec sharelatex /bin/bash -c "cd /var/www/sharelatex; grunt user:create-admin --email my@email.address"
+# docker exec sharelatex /bin/bash -c "cd /var/www/sharelatex; grunt user:create-admin --email my@email.address"
